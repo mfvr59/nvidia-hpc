@@ -1,0 +1,3 @@
+"""
+FinDoc AI Core Package
+""" 
